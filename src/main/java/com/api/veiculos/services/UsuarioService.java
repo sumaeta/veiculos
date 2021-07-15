@@ -1,4 +1,4 @@
-package com.api.veiculos;
+package com.api.veiculos.services;
 
 import com.api.veiculos.model.Usuario;
 import com.api.veiculos.repositories.UsuarioRepository;
